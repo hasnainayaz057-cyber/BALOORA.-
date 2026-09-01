@@ -1,0 +1,6 @@
+{
+  "name": "Baloora",
+  "description": "Next-generation social media platform inspired by Baloch heritage, modern minimalism, and deep personalization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
